@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi there, I'm Chen Yi Tung
+About Me
+I'm a passionate developer who loves turning ideas into reality through code. Always learning, always building.
 
-<!--
-**huanatas/huanatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Languages: JavaScript, Python, Java, C++
+Frontend: React, Vue.js, HTML/CSS
+Backend: Node.js, Express, Django
+Databases: MySQL, MongoDB
+Tools: Git, Docker, AWS
+📈 GitHub Stats
+Show Image
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+Machine Learning
+Cloud Architecture
+System Design
+📫 Connect with Me
+Email: your.email@example.com
+LinkedIn: Chen Yi Tung
+Twitter: @chenyitung
+⚡ Fun fact
+When I'm not coding, you can find me hiking mountains and experimenting with new cooking recipes!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"The only way to do great work is to love what you do." - Steve Jobs
+
+ Copy
+Retry
+
+
+
